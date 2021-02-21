@@ -28,7 +28,8 @@ console.log('clicked')
     }
 
     
-    for(let i=0;i<=5;i++){
+    for(let i=0;i<=array.length-1;i++){
+        console.log(array[i])
         password.value += array[i]
         
     }
