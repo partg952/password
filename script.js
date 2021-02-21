@@ -5,6 +5,7 @@ let charArray = ['A','B','C','C','D','E','F','G','H','I','J','K','L','M','N']
 let symbolArray = ['(','#','%','&','*','^','!']
 let array = []
 
+//for adding numbers to numArray[]
 for(let i=0;i<=9;i++){
     numArray.push(i)
     console.log(numArray[i])
