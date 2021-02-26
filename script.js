@@ -1,3 +1,5 @@
+
+
 let button = document.getElementById('button')
 let password = document.getElementById('password')
 let numArray = []
